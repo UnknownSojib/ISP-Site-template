@@ -10,6 +10,7 @@ Classy and Smart IT & Internet Solutions for Unlimited Activities
           IT Solutions & Internet Services
           Wireless Internet Hotspot
           Computer Service & Installation
+          Phone: 01705-855121
 
 ## Licensing
 All the code is published under the GNU General Public License v3.0.
